@@ -29,7 +29,7 @@ I (..\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
-F (..\User\main.c)(0x4F4DDFD1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CoreSupport -I..\CMSIS\DeviceSupport\ST\STM32F10x -I..\StdPeriph_Driver\inc -I..\User-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+F (..\User\main.c)(0x53FED8A4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CoreSupport -I..\CMSIS\DeviceSupport\ST\STM32F10x -I..\StdPeriph_Driver\inc -I..\User-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
 I (..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
 I (..\CMSIS\CoreSupport\core_cm3.h)(0x4D523B58)
 I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
@@ -756,4 +756,4 @@ I (..\StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
-F (..\CMSIS\DeviceSupport\ST\STM32F10x\startup\arm\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x--list .\list\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (..\CMSIS\DeviceSupport\ST\STM32F10x\startup\arm\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x--list .\list\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
